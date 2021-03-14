@@ -40,7 +40,7 @@
 
 </td><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RollinKG&hide_border=true&layout=compact" align="left" style="width: 100%" />
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=RollinKG)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
 </td></tr></table>  
 
