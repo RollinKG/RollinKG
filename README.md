@@ -27,7 +27,7 @@
 ## Projects 📝
 
 - **도도수수** - 안드로이드 모바일 퍼즐 게임 (2019) **Link** - https://play.google.com/store/apps/details?id=com.teamds.ddsspuzzle
-- **커피몇잔** - 개인 커피 섭취량 기록 앱 (2020) **Link** - https://play.google.com/store/apps/details?id=com.teamds.coffeecounter
+- **커피몇잔** - 개인 커피 섭취량 기록 앱 (2020) Android **Link** - https://play.google.com/store/apps/details?id=com.teamds.coffeecounter
 - **클라이머스** - 클라이밍 기록 및 암장 정보 공유 앱(2021 ~ ) 
   
 
