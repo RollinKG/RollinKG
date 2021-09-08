@@ -2,7 +2,7 @@
 
 ## Welcome! 👋
 
-1년차 App Developer인 **RollinKG** 입니다! 현재는 Android와 Flutter를 주력으로 개발하고 있습니다 :)
+1년차 모바일 개발자 **RollinKG** 입니다! 현재는 Android를 주력으로 개발하고 있습니다 :)
 
 [개발 블로그 방문하기 - Link to rollinkg.dev](https://rollinkg.dev/)
 
