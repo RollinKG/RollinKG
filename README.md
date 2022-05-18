@@ -21,28 +21,9 @@
 ## Experience 🏢
   
 - **Supergene** - 코드 맞는 친구 찾기 앱 <Signal> Android 개발 (2021. 06 ~ )
-- **Fasoo** - 인공지능 메모 앱 <디지털페이지> 모바일 클라이언트 개발 (2020. 12 ~ 2021. 06)
 - **세종대학교** - 게임개발 동아리 <판도라큐브> 프로그래밍, 컴퓨터공학과 학사 졸업 (2015 ~ 2021)
 
 
 ## Projects 📝
 
-- **도도수수** - 안드로이드 모바일 퍼즐 게임 (2019) **Link** - https://play.google.com/store/apps/details?id=com.teamds.ddsspuzzle
-- **커피몇잔** - 개인 커피 섭취량 기록 앱 (2020) Android **Link** - https://play.google.com/store/apps/details?id=com.teamds.coffeecounter
-- **클라이머스** - 클라이밍 기록 및 암장 정보 공유 앱(2021 ~ ) 
-  
-
-
-
-## Github Stats ⭐  
-<table><tr><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api?username=RollinKG&icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
-
-</td><td valign="top" width="50%">
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=RollinKG)](https://github.com/DenverCoder1/github-readme-streak-stats)
-
-</td></tr></table>  
-
-<br/>  
+- **만디** - 안드로이드 데일리 기록 서비스 (2022. 05 ~ )
