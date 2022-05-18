@@ -1,5 +1,3 @@
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FRollinKG&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) ![GitHub followers](https://img.shields.io/github/followers/rollinkg?label=Follow&style=plastic)
-
 ## Welcome! 👋
 
 1년차 모바일 개발자 **RollinKG** 입니다! 현재는 Android를 주력으로 개발하고 있습니다 :)
